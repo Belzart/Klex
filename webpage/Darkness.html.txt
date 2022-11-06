@@ -1,0 +1,27 @@
+<html> 
+<head>
+	<title>Darkness</title>
+</head>
+
+<body>
+	<h1>I Love you <strong>Alex</strong></h1>
+
+	<p><h3><a href="Darkness.html">Why?</a></h3></p>
+
+	<p><h2>Reasons I love you:</h2>
+	<ul>
+		<li>Your eyes</li>
+		<li>The way you smell</li>
+	</ul></p>
+
+	<p>
+		You made everything fun: from Watching a TV on a Tuesday Night -to- Exploring the Everlasting Grass Hills Behind PCV in a Windstorm
+	</p>
+
+ 
+	<img src="https://webstockreview.net/images/feet-clipart-baby-heart-7.png">
+
+
+</body>
+
+</html>
