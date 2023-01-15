@@ -1,0 +1,17 @@
+
+/*<!backgroundtext allows it to be shaded>*/
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(180deg,rgba(5, 255, 161,100%) 0%, rgba(255,255,186,100%) 100%);
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: white;
+	font-size:120px;
+	font-family: georgia;
+}
